@@ -19,7 +19,7 @@
   "license": "CC0-1.0",
   "devDependencies": {
     "electron": "^13.1.8",
-    "electron-builder": "^22.11.7"
+    "electron-builder": "^23.6.0"
   },
   "build": {
     "productName": "Electron-Application",
