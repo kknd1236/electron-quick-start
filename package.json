@@ -24,5 +24,8 @@
   "build": {
     "productName": "Electron-Application",
     "appId": "myApp"
+  },
+  "dependencies": {
+    "mysql": "^2.18.1"
   }
 }
